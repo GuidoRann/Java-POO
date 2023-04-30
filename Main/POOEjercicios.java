@@ -1,16 +1,5 @@
 package Main;
 
-//import Entidad.Libro;
-//import Entidad.Circunferencia;
-//import Entidad.Operacion;
-//import Entidad.Rectangulo;
-//import Entidad.Cancion;
-//import Entidad.Puntos;
-//import Entidad.Juego;
-//import Entidad.Cuenta;
-//import Entidad.Empleado;
-//import Entidad.RectanguloArea;
-
 import Entidad.*;
 
 public class POOEjercicios {
